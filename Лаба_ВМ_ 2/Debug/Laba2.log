@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+c:\users\руслан\desktop\музло\лаба вм 2\лаба вм 2\MyForm.h(786): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\руслан\desktop\музло\лаба вм 2\лаба вм 2\MyForm.h(787): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\руслан\desktop\музло\лаба вм 2\лаба вм 2\MyForm.h(767): warning C4101: k: неиспользованная локальная переменная
+MyForm.cpp(7): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Laba2.vcxproj -> C:\Users\Руслан\Desktop\музло\Лаба ВМ 2\Лаба ВМ 2\Debug\Laba2.exe
+  Laba2.vcxproj -> C:\Users\Руслан\Desktop\музло\Лаба ВМ 2\Лаба ВМ 2\Debug\Laba2.pdb (Full PDB)
